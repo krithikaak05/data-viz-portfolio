@@ -8,15 +8,20 @@
 
 ## 📊 Featured Projects
 
-### 🔵 Tableau
+### 🔵 Tableau 
 
-#### 📱 Marketing Campaign Dashboard
+
+#### 📱 Marketing Campa<img width="1370" height="760" alt="Screenshot 2026-01-28 at 12 56 33 AM" src="https://github.com/user-attachments/assets/181ca15c-ed70-4910-b859-0fcb8d057a11" />
+ign Dashboard
+
 - Multi-dimensional analysis of social media marketing ROI
 - Customer acquisition costs and engagement patterns across platforms
 - Geographic usage distribution (Australia, UK, US)
 - **Tech Stack:** Tableau
 
 #### 🚨 US Crime Analytics
+<img width="1050" height="746" alt="Screenshot 2026-01-28 at 12 56 00 AM" src="https://github.com/user-attachments/assets/9811b466-bb86-4646-9f27-1968c1b700ae" />
+
 - Comprehensive crime pattern visualization across districts
 - Temporal analysis revealing peak crime hours and seasonal trends
 - District-level heatmaps for resource allocation optimization
@@ -28,6 +33,7 @@
 ### 📈 Power BI
 
 #### 🏦 HMDA Lending Analysis
+
 - Analyzed **1M+ mortgage applications** to identify approval drivers
 - **DTI ratio emerged as #1 predictor** (66% variance explained)
 - Revealed 11% baseline denial rate with income-based disparities
