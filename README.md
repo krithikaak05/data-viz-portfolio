@@ -11,7 +11,7 @@
 ### 🔵 Tableau 
 
 
-#### 📱 Marketing Campaign Dashboard
+#### 📱 [Marketing Campaign Dashboard][https://public.tableau.com/app/profile/krithika.annaswamy.kannan/viz/ImpactofSocialMediaonMarketing/Dashboard]
 
 <img width="1370" height="760" alt="Screenshot 2026-01-28 at 12 56 33 AM" src="https://github.com/user-attachments/assets/181ca15c-ed70-4910-b859-0fcb8d057a11" />
 
@@ -20,7 +20,7 @@
 - Geographic usage distribution (Australia, UK, US)
 - **Tech Stack:** Tableau
 
-#### 🚨 US Crime Analytics
+#### 🚨 US Crime Analytics [https://public.tableau.com/app/profile/krithika.annaswamy.kannan/viz/DME_Eigens/USCrimeAnalysis]
 <img width="1050" height="746" alt="Screenshot 2026-01-28 at 12 56 00 AM" src="https://github.com/user-attachments/assets/9811b466-bb86-4646-9f27-1968c1b700ae" />
 
 - Comprehensive crime pattern visualization across districts
