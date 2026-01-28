@@ -40,7 +40,7 @@
 - Analyzed **1M+ mortgage applications** to identify approval drivers
 - **DTI ratio emerged as #1 predictor** (66% variance explained)
 - Revealed 11% baseline denial rate with income-based disparities
-- **Tech Stack:** Power BI, SQL
+- **Tech Stack:** Power BI (Dax)
 
 ---
 
@@ -69,7 +69,7 @@
   - 85.8% member-driven sustainability
   - Top 10 stations handle 14.5% of activity
   - Peak hours: 7-9 AM and 5-7 PM
-- **Tech Stack:** Python (Pandas, Matplotlib, Seaborn), Tableau
+- **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
 
 ---
 
@@ -102,7 +102,7 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 - GenAI shows explosive 115% growth year-over-year
 - AI maturity scores evolved from 5.2 to 8.5 (2019-2024)
 
-**Tech Stack:** HTML5, CSS3, JavaScript (Canvas API), Data Visualization
+**Tech Stack:** HTML5, CSS3, JavaScript (Canvas API), Flourish, Data Wrapper
 
 ---
 
@@ -118,8 +118,7 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 - Comprehensive analysis of Netflix content library and viewing patterns
 - Content distribution across genres, regions, and time periods
 - Strategic insights for content acquisition and audience targeting
-- **Tech Stack:** Google Sites, Data Visualization
-
+- **Tech Stack:** Google Sites, Flourish, Data Wrapper
 ---
 
 ## 🛠️ Technical Stack
