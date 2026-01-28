@@ -71,7 +71,7 @@
 
 ### 💻 HTML/JavaScript & Google Sites
 
-#### 🤖 [AI Adoption Analytics Dashboard](BI_WorkSample.html)
+#### 🤖 [AI Adoption Analytics Dashboard](./BI_WorkSample.html)
 Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends (2019-2025) using pure JavaScript and Canvas API.
 
 **Features:**
