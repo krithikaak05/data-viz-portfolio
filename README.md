@@ -16,14 +16,11 @@
 - Geographic usage distribution (Australia, UK, US)
 - **Tech Stack:** Tableau
 
-#### 🦠  US Crime Analytics
-
-
+#### 🚨 US Crime Analytics
 - Comprehensive crime pattern visualization across districts
 - Temporal analysis revealing peak crime hours and seasonal trends
 - District-level heatmaps for resource allocation optimization
 - Crime type distribution and severity analysis
-
 - **Tech Stack:** Tableau
 
 ---
@@ -62,6 +59,7 @@
   - Top 10 stations handle 14.5% of activity
   - Peak hours: 7-9 AM and 5-7 PM
 - **Tech Stack:** Python (Pandas, Matplotlib, Seaborn), Tableau
+
 ---
 
 ### 💻 HTML/JavaScript & Google Sites
@@ -101,13 +99,19 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 
 ---
 
-#### 🛒 [Amazon Consumer Analytics](https://sites.google.com/view/computationvizgroup7/introduction)
+#### 🛒 [Amazon Consumer Analytics]
 - Multi-act data story exploring **272K products** and **25.5M purchases**
 - **Key Insights:**
   - Mid-range products ($25-75) achieve highest ratings
   - Beauty drives strongest repeat behavior
   - Product quality is #1 complaint driver
 - **Tech Stack:** Flourish, Datawrapper, React, Google Sites
+
+#### 🎬 [Netflix Content Analysis](https://sites.google.com/view/computationvizgroup7)
+- Comprehensive analysis of Netflix content library and viewing patterns
+- Content distribution across genres, regions, and time periods
+- Strategic insights for content acquisition and audience targeting
+- **Tech Stack:** Google Sites, Data Visualization
 
 ---
 
@@ -126,6 +130,7 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 - Web: HTML5, CSS3, React
 - Version Control: Git, GitHub
 
+---
 
 *Clean data. Clear insights. Compelling stories.*
 
