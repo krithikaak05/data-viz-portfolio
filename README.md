@@ -44,6 +44,8 @@
 
 ### 📋 Excel
 
+<img width="660" height="550" alt="Screenshot 2026-01-28 at 2 00 49 AM" src="https://github.com/user-attachments/assets/0f5db550-ae99-4425-adf7-be746e651972" />
+
 #### 🏥 National Health Interview Survey Dashboard
 - Healthcare analytics exploring disease trends and barriers to care
 - **Key Analysis:**
@@ -72,6 +74,9 @@
 ### 💻 HTML/JavaScript & Google Sites
 
 #### 🤖 AI Adoption Analytics Dashboard {Download BI_WorkSample.html file}
+
+<img width="1410" height="790" alt="Screenshot 2026-01-28 at 2 00 08 AM" src="https://github.com/user-attachments/assets/840accd0-35da-4090-aa28-b903e7611326" />
+
 Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends (2019-2025) using pure JavaScript and Canvas API.
 
 **Features:**
@@ -89,13 +94,6 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
   - Total Investment: $109B
   - Average ROI: 92.1%
 
-**Technical Highlights:**
-- Zero-library implementation using Canvas API
-- Responsive design with gradient aesthetics
-- Interactive hover effects and animations
-- Year-over-year trend calculations
-- Projected vs actual data visualization
-
 **Key Insights:**
 - Technology sector leads at 89% adoption with 95.2% ROI
 - North America dominates regional adoption at 82%
@@ -106,7 +104,7 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 
 ---
 
-#### 🛒 Amazon Consumer Analytics
+#### 🛒 Amazon Consumer Analytics 
 - Multi-act data story exploring **272K products** and **25.5M purchases**
 - **Key Insights:**
   - Mid-range products ($25-75) achieve highest ratings
