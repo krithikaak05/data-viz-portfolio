@@ -33,7 +33,7 @@
 
 ### 📈 Power BI
 
-#### 🏦 HMDA Lending Analysis
+#### 🏦 HMDA Lending Analysis {Refer PowerBI_WorkSample_ppt.ppt/pbix}
 
 - Analyzed **1M+ mortgage applications** to identify approval drivers
 - **DTI ratio emerged as #1 predictor** (66% variance explained)
@@ -55,7 +55,7 @@
 
 ---
 
-### 🐍 Python
+### 🐍 Python { Refer BostonBlueBikes.pptx/pdf }
 
 #### 🚴 Boston Bluebikes Analysis
 - Optimized urban bike-sharing through analysis of **98K trips**
