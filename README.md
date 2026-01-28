@@ -33,7 +33,9 @@
 
 ### 📈 Power BI
 
-#### 🏦 [HMDA Lending Analysis](https://app.powerbi.com/links/-hNuGJBmWq?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare) {Refer PowerBI_WorkSample_ppt.ppt/pbix}
+#### 🏦 HMDA Lending Analysis {Refer PowerBI_WorkSample_ppt.ppt/pbix}
+
+<img width="705" height="701" alt="Screenshot 2026-01-28 at 2 12 35 AM" src="https://github.com/user-attachments/assets/e9b5ab3f-f3f8-41a4-9997-d4f11ae0fddf" />
 
 - Analyzed **1M+ mortgage applications** to identify approval drivers
 - **DTI ratio emerged as #1 predictor** (66% variance explained)
