@@ -11,8 +11,9 @@
 ### 🔵 Tableau 
 
 
-#### 📱 Marketing Campa<img width="1370" height="760" alt="Screenshot 2026-01-28 at 12 56 33 AM" src="https://github.com/user-attachments/assets/181ca15c-ed70-4910-b859-0fcb8d057a11" />
-ign Dashboard
+#### 📱 Marketing Campaign Dashboard
+
+<img width="1370" height="760" alt="Screenshot 2026-01-28 at 12 56 33 AM" src="https://github.com/user-attachments/assets/181ca15c-ed70-4910-b859-0fcb8d057a11" />
 
 - Multi-dimensional analysis of social media marketing ROI
 - Customer acquisition costs and engagement patterns across platforms
