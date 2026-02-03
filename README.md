@@ -1,7 +1,7 @@
 # Data Visualization Portfolio
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://your-username.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://krithikaak05.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)(https://linkedin.com/in/https://www.linkedin.com/in/krithika-a-k-1bab26188/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:annaswamykannan.k@northeastern.edu)
 
 ---
