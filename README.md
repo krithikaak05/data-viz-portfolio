@@ -106,7 +106,7 @@ Custom-built interactive dashboard tracking enterprise AI/GenAI adoption trends 
 
 ---
 
-#### 🛒 Amazon Consumer Analytics 
+#### 🛒 Amazon Consumer Analytics (AmazonAnalytics.html file)
 - Multi-act data story exploring **272K products** and **25.5M purchases**
 - **Key Insights:**
   - Mid-range products ($25-75) achieve highest ratings
